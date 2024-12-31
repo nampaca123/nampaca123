@@ -28,51 +28,51 @@ const developer = {
 
 ### Backend Development
 <p align="left">
-  <img src="https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=0A84FF" />
-  <img src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=0A84FF" />
-  <img src="https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=0A84FF" />
-  <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=0A84FF" />
-  <img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=0A84FF" />
-  <img src="https://img.shields.io/badge/-FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=0A84FF" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
 </p>
 
 ### Databases
 <p align="left">
-  <img src="https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=0A84FF" />
-  <img src="https://img.shields.io/badge/-SQL%20Server-000000?style=for-the-badge&logo=microsoft-sql-server&logoColor=0A84FF" />
-  <img src="https://img.shields.io/badge/-SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=0A84FF" />
-  <img src="https://img.shields.io/badge/-Prisma-000000?style=for-the-badge&logo=prisma&logoColor=0A84FF" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="40" height="40"/>
 </p>
 
 ### Data Engineering
 <p align="left">
-  <img src="https://img.shields.io/badge/-Apache%20Kafka-000000?style=for-the-badge&logo=apache-kafka&logoColor=0A84FF" />
-  <img src="https://img.shields.io/badge/-Apache%20Airflow-000000?style=for-the-badge&logo=apache-airflow&logoColor=0A84FF" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/apache/airflow/main/airflow/www/static/pin_100.png" alt="airflow" width="40" height="40"/>
 </p>
 
 ### Data Analysis
 <p align="left">
-  <img src="https://img.shields.io/badge/-Power%20BI-000000?style=for-the-badge&logo=power-bi&logoColor=0A84FF" />
-  <img src="https://img.shields.io/badge/-Tableau-000000?style=for-the-badge&logo=tableau&logoColor=0A84FF" />
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="powerbi" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="tableau" width="40" height="40"/>
 </p>
 
 ### Frontend Development
 <p align="left">
-  <img src="https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=0A84FF" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=0A84FF" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=0A84FF" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/>
 </p>
 
 ### Cloud
 <p align="left">
-  <img src="https://img.shields.io/badge/-AWS%20Cloud-000000?style=for-the-badge&logo=amazon-aws&logoColor=0A84FF" />
-  <img src="https://img.shields.io/badge/-Azure%20Cloud-000000?style=for-the-badge&logo=microsoft-azure&logoColor=0A84FF" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
 </p>
 
 ### DevOps
 <p align="left">
-  <img src="https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker&logoColor=0A84FF" />
-  <img src="https://img.shields.io/badge/-Swagger%20UI-000000?style=for-the-badge&logo=swagger&logoColor=0A84FF" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/swagger-api/swagger.io/wordpress/images/assets/SW-logo-clr.png" alt="swagger" width="40" height="40"/>
 </p>
 
 </div>
