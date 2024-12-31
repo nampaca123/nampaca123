@@ -12,8 +12,6 @@
 
 <br/>
 
-## 🛠️ Tech Stack
-
 <div align="center">
 
 ```typescript
@@ -26,42 +24,68 @@ const developer = {
 
 </div>
 
-<div align="center">
+## 🛠️ Tech Stack
 
-### Backend
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=0A84FF)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=0A84FF)
-![FastAPI](https://img.shields.io/badge/-FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=0A84FF)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=0A84FF)
+### Backend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=0A84FF" />
+  <img src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=0A84FF" />
+  <img src="https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=0A84FF" />
+  <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=0A84FF" />
+  <img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=0A84FF" />
+  <img src="https://img.shields.io/badge/-FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=0A84FF" />
+</p>
+
+### Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=0A84FF" />
+  <img src="https://img.shields.io/badge/-SQL%20Server-000000?style=for-the-badge&logo=microsoft-sql-server&logoColor=0A84FF" />
+  <img src="https://img.shields.io/badge/-SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=0A84FF" />
+  <img src="https://img.shields.io/badge/-Prisma-000000?style=for-the-badge&logo=prisma&logoColor=0A84FF" />
+</p>
 
 ### Data Engineering
-![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-000000?style=for-the-badge&logo=apache-kafka&logoColor=0A84FF)
-![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-000000?style=for-the-badge&logo=apache-airflow&logoColor=0A84FF)
+<p align="left">
+  <img src="https://img.shields.io/badge/-Apache%20Kafka-000000?style=for-the-badge&logo=apache-kafka&logoColor=0A84FF" />
+  <img src="https://img.shields.io/badge/-Apache%20Airflow-000000?style=for-the-badge&logo=apache-airflow&logoColor=0A84FF" />
+</p>
 
-### AI/ML
-![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=0A84FF)
-![OpenAI](https://img.shields.io/badge/-OpenAI-000000?style=for-the-badge&logo=openai&logoColor=0A84FF)
+### Data Analysis
+<p align="left">
+  <img src="https://img.shields.io/badge/-Power%20BI-000000?style=for-the-badge&logo=power-bi&logoColor=0A84FF" />
+  <img src="https://img.shields.io/badge/-Tableau-000000?style=for-the-badge&logo=tableau&logoColor=0A84FF" />
+</p>
 
-### Frontend
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=0A84FF)
-![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=0A84FF)
+### Frontend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=0A84FF" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=0A84FF" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=0A84FF" />
+</p>
 
 ### Cloud
-![AWS](https://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=0A84FF)
-![Azure](https://img.shields.io/badge/-Azure-000000?style=for-the-badge&logo=microsoft-azure&logoColor=0A84FF)
+<p align="left">
+  <img src="https://img.shields.io/badge/-AWS%20Cloud-000000?style=for-the-badge&logo=amazon-aws&logoColor=0A84FF" />
+  <img src="https://img.shields.io/badge/-Azure%20Cloud-000000?style=for-the-badge&logo=microsoft-azure&logoColor=0A84FF" />
+</p>
+
+### DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker&logoColor=0A84FF" />
+  <img src="https://img.shields.io/badge/-Swagger%20UI-000000?style=for-the-badge&logo=swagger&logoColor=0A84FF" />
+</p>
 
 </div>
 
 ## 🔭 Featured Projects
 
-<div align="center">
+### 🍳 MakeEat - From Receipts to Delicious Recipes with AI
+<div align="left">
   <a href="https://github.com/nampaca123/makeEat">
-    <img src="https://github.com/nampaca123/makeEat/raw/main/makeEat_Logo.png" width="400" />
+    <img src="https://github.com/nampaca123/makeEat/raw/main/makeEat_Logo.png" width="200" align="right" />
   </a>
-</div>
-
-### 🍳 MakeEat - AI-Powered Recipe Generator
-Got groceries but no recipe ideas? MakeEat transforms your receipts into culinary inspiration! 
+  
+Got groceries but no recipe ideas? MakeEat transforms your receipts into culinary inspiration! Just snap a photo of your receipt, and let AI do the magic of creating delicious recipes tailored to your ingredients.
 
 <details>
 <summary>✨ Key Features & Achievements</summary>
@@ -72,21 +96,29 @@ Got groceries but no recipe ideas? MakeEat transforms your receipts into culinar
 - 💰 Cost-effective API usage
 - ⚡ Super fast processing
 
-**Performance Metrics**:
-- 56% more accurate in reading receipts
-- 80% more cost-efficient
-- 30% faster processing
-- 55% more accurate nutrition data
-</details>
+**Fun Facts**: Our system is...
+- 56% more accurate in reading receipts than standard OCR
+- 80% more cost-efficient with smart preprocessing
+- 30% faster than direct image analysis
+- 55% more accurate in nutritional calculations
 
-<div align="center">
-  <a href="https://github.com/nampaca123/Vori_Reborn">
-    <img src="https://github.com/nampaca123/Vori_Reborn/raw/main/voriLogo.png" width="400" />
-  </a>
+**Built with**:
+- **Backend**: Node.js & Express (JavaScript), FastAPI (Python), PostgreSQL, Prisma
+- **AI/ML**: PyTorch (EasyOCR), Tesseract, GPT-4
+- **Frontend**: Next.js, TailwindCSS
+- **Documentation**: Swagger UI
+</details>
 </div>
 
-### 🎙️ Vori - Voice-to-Task Revolution
-Transform team meetings into organized tasks, automatically! 
+<br/>
+
+### 🎙️ Vori - Voice to Report
+<div align="left">
+  <a href="https://github.com/nampaca123/Vori_Reborn">
+    <img src="https://github.com/nampaca123/Vori_Reborn/raw/main/voriLogo.png" width="200" align="right" />
+  </a>
+
+Transform team meetings into organized tasks, automatically! Originally built with AWS, now evolved into a powerful local-first solution that anyone can run anywhere.
 
 <details>
 <summary>🌟 Features & Stack</summary>
@@ -97,21 +129,28 @@ Transform team meetings into organized tasks, automatically!
 - 🔄 Real-time processing
 - 🔒 Secure & private
 
-**Tech Stack**:
-- **Current**: TypeScript, Node.js, FastAPI, PostgreSQL, Kafka, OpenAI
-- **Previous**: AWS Lambda, MSK, EC2, S3
+**Built with**:
+- **Current (Local Version)**:
+  - **Backend**: TypeScript, Node.js, FastAPI, PostgreSQL
+  - **Data Processing**: Apache Kafka
+  - **AI/ML**: OpenAI (Whisper & GPT)
+  - **Frontend**: Next.js, TailwindCSS
+- **Previous (AWS Version)**:
+  - **Cloud Services**: AWS Lambda, MSK, EC2, S3
+  - Same core technologies
 </details>
+</div>
 
 ## 📫 Connect With Me
 
 <div align="center">
   
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:knnam12@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/knnam12/)
-[![Phone](https://img.shields.io/badge/-Call%20Me-00C300?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+19497387650)
+[![Email](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=0A84FF)](mailto:knnam12@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A84FF)](https://www.linkedin.com/in/knnam12/)
+[![Phone](https://img.shields.io/badge/-Call%20Me-000000?style=for-the-badge&logo=whatsapp&logoColor=0A84FF)](tel:+19497387650)
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A84FF&height=100&section=footer" />
 </div>
