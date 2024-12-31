@@ -1,101 +1,109 @@
-# Hi there 👋 I'm Kellan
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there!%20I'm%20Kellan%20👋&fontSize=50&animation=fadeIn" />
+</div>
 
-I'm a Backend Developer & Data Engineer who loves turning complex problems into elegant solutions! 
+<h3 align="center">
+  Backend Developer & Data Engineer crafting elegant solutions 🚀
+</h3>
 
-🎯 Currently focusing on:
-- Building distributed processing systems
-- Diving deep into full-stack development
-- Making data processing more efficient
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nampaca123&color=blueviolet" alt="Profile views" />
+</div>
 
-🌟 Passionate about combining backend development with data engineering to create practical, innovative solutions.
+<br/>
 
-Based in Irvine, California 🌴
+<div align="center">
+  
+  ```typescript
+  const kellan = {
+    location: "Irvine, California 🌴",
+    focus: ["Distributed Systems", "Full-Stack Dev", "Data Engineering"],
+    passion: "Bridging Backend & Data Engineering"
+  };
+  ```
+  
+</div>
 
-## 🔭 Current Projects
+## 🔭 Featured Projects
 
-### 🍳 MakeEat - From Receipts to Delicious Recipes with AI
-[![MakeEat](https://github.com/nampaca123/makeEat/raw/main/makeEat_Logo.png)](https://github.com/nampaca123/makeEat)
+<div align="center">
+  <a href="https://github.com/nampaca123/makeEat">
+    <img src="https://github.com/nampaca123/makeEat/raw/main/makeEat_Logo.png" width="400" />
+  </a>
+</div>
 
-Got groceries but no recipe ideas? MakeEat turns your grocery receipts into personalized recipes! Just snap a photo of your receipt, and let AI do the magic of creating delicious recipes tailored to your ingredients.
+### 🍳 MakeEat - AI-Powered Recipe Generator
+Got groceries but no recipe ideas? MakeEat transforms your receipts into culinary inspiration! 
 
-**Cool Features**:
+<details>
+<summary>✨ Key Features & Achievements</summary>
+
 - 🎯 Smart receipt scanning with hybrid OCR system
 - 📝 Personalized recipe generation
 - 🍽️ Detailed nutritional analysis
 - 💰 Cost-effective API usage
 - ⚡ Super fast processing
 
-**Fun Facts**: Our system is...
-- 56% more accurate in reading receipts than standard OCR
-- 80% more cost-efficient with smart preprocessing
-- 30% faster than direct image analysis
-- 55% more accurate in nutritional calculations
+**Performance Metrics**:
+- 56% more accurate in reading receipts
+- 80% more cost-efficient
+- 30% faster processing
+- 55% more accurate nutrition data
+</details>
 
-**Built with**: Node.js & Express (JavaScript), FastAPI (Python), PostgreSQL, Prisma, GPT-4, PyTorch, Tesseract, Swagger UI
+<div align="center">
+  <a href="https://github.com/nampaca123/Vori_Reborn">
+    <img src="https://github.com/nampaca123/Vori_Reborn/raw/main/voriLogo.png" width="400" />
+  </a>
+</div>
 
-### 🎙️ Vori - Voice Recognition-Based Automated Kanban Board Service
-[![Vori](https://github.com/nampaca123/Vori_Reborn/raw/main/voriLogo.png)](https://github.com/nampaca123/Vori_Reborn)
+### 🎙️ Vori - Voice-to-Task Revolution
+Transform team meetings into organized tasks, automatically! 
 
-Ever wished your team meetings could automatically turn into organized tasks? That's what Vori does! It listens to your meetings and creates Kanban board tickets in real-time. Originally built with AWS, I'm now making it even better as a local-first solution that anyone can run anywhere.
+<details>
+<summary>🌟 Features & Stack</summary>
 
 **Cool Features**:
-- 🎯 Turn voice into tasks automatically
-- 📝 Smart meeting summaries with AI
+- 🎯 Voice-to-task automation
+- 📝 AI-powered meeting summaries
 - 🔄 Real-time processing
 - 🔒 Secure & private
 
-**Built with**:
-- **Current (Local Version)**:
-  - TypeScript, Node.js, FastAPI, PostgreSQL
-  - Apache Kafka, OpenAI (Whisper & GPT)
-  - Next.js, TailwindCSS
-- **Previous (AWS Version)**:
-  - AWS Lambda, MSK, EC2, S3
-  - Same core technologies
+**Tech Stack**:
+- **Current**: TypeScript, Node.js, FastAPI, PostgreSQL, Kafka, OpenAI
+- **Previous**: AWS Lambda, MSK, EC2, S3
+</details>
 
-## 🌱 Skills
+## 🛠️ Tech Stack
 
-### Technologies
-#### Backend Engineering (BE)
-- Node.js & Express (TypeScript/JavaScript)
-- FastAPI (Python)
-- Prisma ORM
-- PostgreSQL
-- SQLite
-- SQL Server
-- Swagger UI
-- Docker
+<div align="center">
 
-#### Data Engineering
-- Apache Kafka
-- Apache Airflow
-- PostgreSQL
-- SQL Server
+| Category | Technologies |
+|----------|-------------|
+| **Backend** | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
+| **Data Engineering** | ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white) |
+| **AI/ML** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white) |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| **Cloud** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) |
 
-#### AI & Machine Learning
-- PyTorch (EasyOCR)
-- Tesseract
-- GPT-4 (API Integration & Prompt Engineering)
-- OpenAI Whisper (Speech Recognition)
+</div>
 
-#### Data Analytics
-- Power BI
-- Tableau
+## 📊 GitHub Stats
 
-#### Frontend Engineering (FE)
-- Next.js
-- React
-- TailwindCSS
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nampaca123&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</div>
 
-#### Cloud Services
-- AWS Cloud
-- Azure Cloud
+## 📫 Connect With Me
 
-## 📫 How to reach me
-- 📧 Email: knnam12@outlook.com
-- 💼 LinkedIn: [LinkedIn Homepage](https://www.linkedin.com/in/knnam12/)
-- 📞 Phone: (+1) 949 738 7650
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:knnam12@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/knnam12/)
+[![Phone](https://img.shields.io/badge/-Call%20Me-00C300?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+19497387650)
 
-<!--
-**nampaca123/nampaca123** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
--->
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
