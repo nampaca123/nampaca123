@@ -13,15 +13,25 @@
 <br/>
 
 <div align="center">
-
-```typescript
-const developer = {
-  location: "Irvine, California 🌴",
-  focus: ["Distributed Systems", "Full-Stack Dev", "Data Engineering"],
-  passion: "Bridging Backend & Data Engineering"
-};
-```
-
+  <table>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/Location-Irvine,%20CA-0A84FF?style=for-the-badge&logo=google-maps&logoColor=0A84FF" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/Focus-Distributed%20Systems-0A84FF?style=for-the-badge&logo=apache&logoColor=0A84FF" />
+        <img src="https://img.shields.io/badge/Focus-Full--Stack%20Dev-0A84FF?style=for-the-badge&logo=react&logoColor=0A84FF" />
+        <img src="https://img.shields.io/badge/Focus-Data%20Engineering-0A84FF?style=for-the-badge&logo=apache-kafka&logoColor=0A84FF" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/Passion-Backend%20&%20Data%20Engineering-0A84FF?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA70lEQVR4nKXSvUpDQRDF8d8V/EAEGwu1EgRBBAtR0E4QQas8gYVgZ2MhPoCFhYiVnYWNjYU+glhYiCBYWPhRiRKJRWbhGm5usvGHYXdmzjmzs7vhX4YxgSUs4BBn2McaZjGI+F+5wC7GqxKN4grb6ErEuvGMR3TUSTaLl7+S9eAE11jHFg4wj5FvG9jALe7wgnd84hNvuMQw2hsR38UL3vCBd7wm+RucYyEVPEWzxXnGMY12dKALfehN9pZwjKcGzgfMJeJ9GMAghtJrTGEn6TGBm7hVs/kcB9htIDaS9LhuxcMUzrDSKvkXqhiB40PC7FEAAAAASUVORK5CYII=" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 🛠️ Tech Stack
