@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A84FF&height=200&section=header&text=Hi%20there!%20I'm%20Kyoungin%20Nam%20👋&fontSize=50&animation=twinkling&fontColor=0A84FF&backgroundColor=000000" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1A1B27&height=200&section=header&text=Hi%20there!%20I'm%20Kyoungin%20Nam%20👋&fontSize=50&animation=twinkling&fontColor=0A84FF" />
 </div>
 
 <h3 align="center">
@@ -30,10 +30,10 @@ const developer = {
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://nodejs.org/static/images/logo.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
 </p>
 
 ### Databases
@@ -152,5 +152,5 @@ Transform team meetings into organized tasks, automatically! Originally built wi
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A84FF&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1A1B27&height=100&section=footer&fontSize=50&animation=twinkling&fontColor=0A84FF" />
 </div>
