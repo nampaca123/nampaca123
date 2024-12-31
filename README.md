@@ -1,27 +1,38 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there!%20I'm%20Kellan%20👋&fontSize=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A84FF&height=200&section=header&text=Hi%20there!%20I'm%20Kyoungin%20Nam%20👋&fontSize=50&animation=fadeIn&fontColor=FFFFFF&backgroundColor=000000" />
 </div>
 
 <h3 align="center">
-  Backend Developer & Data Engineer crafting elegant solutions 🚀
+  <span style="color: #0A84FF">Backend Developer & Data Engineer crafting elegant solutions</span> 🚀
 </h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nampaca123&color=blueviolet" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=nampaca123&color=0A84FF" alt="Profile views" />
 </div>
 
 <br/>
 
+## 🛠️ Tech Stack
 <div align="center">
-  
-  ```typescript
-  const kellan = {
-    location: "Irvine, California 🌴",
-    focus: ["Distributed Systems", "Full-Stack Dev", "Data Engineering"],
-    passion: "Bridging Backend & Data Engineering"
-  };
-  ```
-  
+| Category | Technologies |
+|----------|-------------|
+| **Backend** | ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=0A84FF) ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=node.js&logoColor=0A84FF) ![FastAPI](https://img.shields.io/badge/-FastAPI-000000?style=flat-square&logo=fastapi&logoColor=0A84FF) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=0A84FF) |
+| **Data Engineering** | ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-000000?style=flat-square&logo=apache-kafka&logoColor=0A84FF) ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-000000?style=flat-square&logo=apache-airflow&logoColor=0A84FF) |
+| **AI/ML** | ![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat-square&logo=pytorch&logoColor=0A84FF) ![OpenAI](https://img.shields.io/badge/-OpenAI-000000?style=flat-square&logo=openai&logoColor=0A84FF) |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=0A84FF) ![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=0A84FF) |
+| **Cloud** | ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat-square&logo=amazon-aws&logoColor=0A84FF) ![Azure](https://img.shields.io/badge/-Azure-000000?style=flat-square&logo=microsoft-azure&logoColor=0A84FF) |
+</div>
+
+<div align="center">
+<pre>
+<code style="background-color: #000000; color: #0A84FF">
+const developer = {
+  location: "Irvine, California 🌴",
+  focus: ["Distributed Systems", "Full-Stack Dev", "Data Engineering"],
+  passion: "Bridging Backend & Data Engineering"
+};
+</code>
+</pre>
 </div>
 
 ## 🔭 Featured Projects
@@ -73,26 +84,6 @@ Transform team meetings into organized tasks, automatically!
 - **Current**: TypeScript, Node.js, FastAPI, PostgreSQL, Kafka, OpenAI
 - **Previous**: AWS Lambda, MSK, EC2, S3
 </details>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-| Category | Technologies |
-|----------|-------------|
-| **Backend** | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
-| **Data Engineering** | ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white) |
-| **AI/ML** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white) |
-| **Frontend** | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
-| **Cloud** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) |
-
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nampaca123&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
 
 ## 📫 Connect With Me
 
