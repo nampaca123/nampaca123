@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=121212&height=200&section=header&text=Hi%20there!%20I'm%20Kyoungin%20Nam%20👋&fontSize=50&animation=twinkling&fontColor=00BFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=080808&height=200&section=header&text=Hi%20there!%20I'm%20Kyoungin%20Nam%20👋&fontSize=50&animation=twinkling&fontColor=00BFFF" />
 </div>
 
 <h3 align="center">
@@ -162,5 +162,5 @@ Transform team meetings into organized tasks, automatically! Originally built wi
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=121212&height=100&section=footer&fontSize=50&animation=twinkling&fontColor=00BFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=080808&height=100&section=footer&fontSize=50&animation=twinkling&fontColor=00BFFF" />
 </div>
