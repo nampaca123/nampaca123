@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1A1B27&height=200&section=header&text=Hi%20there!%20I'm%20Kyoungin%20Nam%20👋&fontSize=50&animation=twinkling&fontColor=0A84FF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=121212&height=200&section=header&text=Hi%20there!%20I'm%20Kyoungin%20Nam%20👋&fontSize=50&animation=twinkling&fontColor=00BFFF" />
 </div>
 
 <h3 align="center">
-  <span style="color: #0A84FF">Backend Developer & Data Engineer crafting elegant solutions</span> 🚀
+  <span style="color: #00BFFF">Backend Developer & Data Engineer crafting elegant solutions</span> 🚀
 </h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nampaca123&color=0A84FF" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=nampaca123&color=00BFFF" alt="Profile views" />
 </div>
 
 <br/>
@@ -16,19 +16,19 @@
   <table>
     <tr>
       <td>
-        <img src="https://img.shields.io/badge/Location-Irvine,%20CA-0A84FF?style=for-the-badge&logo=google-maps&logoColor=0A84FF" />
+        <img src="https://img.shields.io/badge/Location-Irvine,%20CA-00BFFF?style=for-the-badge&logo=google-maps&logoColor=00BFFF" />
       </td>
     </tr>
     <tr>
       <td>
-        <img src="https://img.shields.io/badge/Focus-Distributed%20Systems-0A84FF?style=for-the-badge&logo=apache&logoColor=0A84FF" />
-        <img src="https://img.shields.io/badge/Focus-Full--Stack%20Dev-0A84FF?style=for-the-badge&logo=react&logoColor=0A84FF" />
-        <img src="https://img.shields.io/badge/Focus-Data%20Engineering-0A84FF?style=for-the-badge&logo=apache-kafka&logoColor=0A84FF" />
+        <img src="https://img.shields.io/badge/Focus-Distributed%20Systems-00BFFF?style=for-the-badge&logo=apache&logoColor=00BFFF" />
+        <img src="https://img.shields.io/badge/Focus-Full--Stack%20Dev-00BFFF?style=for-the-badge&logo=react&logoColor=00BFFF" />
+        <img src="https://img.shields.io/badge/Focus-Data%20Engineering-00BFFF?style=for-the-badge&logo=apache-kafka&logoColor=00BFFF" />
       </td>
     </tr>
     <tr>
       <td>
-        <img src="https://img.shields.io/badge/Passion-Backend%20&%20Data%20Engineering-0A84FF?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA70lEQVR4nKXSvUpDQRDF8d8V/EAEGwu1EgRBBAtR0E4QQas8gYVgZ2MhPoCFhYiVnYWNjYU+glhYiCBYWPhRiRKJRWbhGm5usvGHYXdmzjmzs7vhX4YxgSUs4BBn2McaZjGI+F+5wC7GqxKN4grb6ErEuvGMR3TUSTaLl7+S9eAE11jHFg4wj5FvG9jALe7wgnd84hNvuMQw2hsR38UL3vCBd7wm+RucYyEVPEWzxXnGMY12dKALfehN9pZwjKcGzgfMJeJ9GMAghtJrTGEn6TGBm7hVs/kcB9htIDaS9LhuxcMUzrDSKvkXqhiB40PC7FEAAAAASUVORK5CYII=" />
+        <img src="https://img.shields.io/badge/Passion-Backend%20&%20Data%20Engineering-00BFFF?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA70lEQVR4nKXSvUpDQRDF8d8V/EAEGwu1EgRBBAtR0E4QQas8gYVgZ2MhPoCFhYiVnYWNjYU+glhYiCBYWPhRiRKJRWbhGm5usvGHYXdmzjmzs7vhX4YxgSUs4BBn2McaZjGI+F+5wC7GqxKN4grb6ErEuvGMR3TUSTaLl7+S9eAE11jHFg4wj5FvG9jALe7wgnd84hNvuMQw2hsR38UL3vCBd7wm+RucYyEVPEWzxXnGMY12dKALfehN9pZwjKcGzgfMJeJ9GMAghtJrTGEn6TGBm7hVs/kcB9htIDaS9LhuxcMUzrDSKvkXqhiB40PC7FEAAAAASUVORK5CYII=" />
       </td>
     </tr>
   </table>
@@ -155,12 +155,12 @@ Transform team meetings into organized tasks, automatically! Originally built wi
 
 <div align="center">
   
-[![Email](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=0A84FF)](mailto:knnam12@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A84FF)](https://www.linkedin.com/in/knnam12/)
-[![Phone](https://img.shields.io/badge/-Call%20Me-000000?style=for-the-badge&logo=whatsapp&logoColor=0A84FF)](tel:+19497387650)
+[![Email](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=00BFFF)](mailto:knnam12@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00BFFF)](https://www.linkedin.com/in/knnam12/)
+[![Phone](https://img.shields.io/badge/-Call%20Me-000000?style=for-the-badge&logo=whatsapp&logoColor=00BFFF)](tel:+19497387650)
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1A1B27&height=100&section=footer&fontSize=50&animation=twinkling&fontColor=0A84FF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=121212&height=100&section=footer&fontSize=50&animation=twinkling&fontColor=00BFFF" />
 </div>
