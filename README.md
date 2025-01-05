@@ -1,5 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=080808&height=200&section=header&text=Hi%20there!%20I'm%20Kyoungin%20Nam%20👋&fontSize=50&animation=twinkling&fontColor=00BFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=080808&height=200&section=header&text=%20&fontSize=50&animation=twinkling&fontColor=00BFFF" />
+  
+  <div align="center" style="margin-top: -140px; margin-bottom: 100px;">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=3000&color=00BFFF&center=true&vCenter=true&random=false&width=435&lines=Kyoungin+Nam;Data+Engineer;Full-Stack+Developer;Passionate+about+Distributed+Systems" alt="Typing SVG" />
+    </a>
+  </div>
 </div>
 
 <h3 align="center">
