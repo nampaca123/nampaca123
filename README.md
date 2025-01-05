@@ -57,7 +57,7 @@
   </table>
 </div>
 
-## 💼 Experience
+<br/>
 
 <div align="center">
   <h2>💼 Experience</h2>
@@ -127,7 +127,7 @@
   </table>
 </div>
 
-## 🔭 Featured Projects
+<br/>
 
 <div align="center">
   <h2>🔭 Featured Projects</h2>
@@ -141,9 +141,7 @@
   
 Got groceries but no recipe ideas? MakeEat transforms your receipts into culinary inspiration! Just snap a photo of your receipt, and let AI do the magic of creating delicious recipes tailored to your ingredients.
 
-<details>
-<summary>✨ Key Features & Achievements</summary>
-
+**✨ Key Features & Achievements**
 - 🎯 Smart receipt scanning with hybrid OCR system
 - 📝 Personalized recipe generation
 - 🍽️ Detailed nutritional analysis
@@ -157,11 +155,18 @@ Got groceries but no recipe ideas? MakeEat transforms your receipts into culinar
 - 55% more accurate in nutritional calculations
 
 **Built with**:
-- **Backend**: Node.js & Express (JavaScript), FastAPI (Python), PostgreSQL, Prisma
-- **AI/ML**: PyTorch (EasyOCR), Tesseract, GPT-4
-- **Frontend**: Next.js, TailwindCSS
-- **Documentation**: Swagger UI
-</details>
+- **Core Backend**:
+  - Node.js & Express for main server
+  - FastAPI for Python services
+  - PostgreSQL & Prisma for data persistence
+- **AI/ML**:
+  - PyTorch (EasyOCR) for text area detection
+  - Tesseract for text recognition
+  - GPT-4 for recipe generation
+- **Frontend**:
+  - Next.js & TailwindCSS for UI
+- **DevOps**:
+  - Swagger UI for API documentation
 </div>
 
 <br/>
@@ -174,38 +179,33 @@ Got groceries but no recipe ideas? MakeEat transforms your receipts into culinar
 
 Turn your endless meetings into actionable tasks, instantly! Vori is your AI-powered meeting assistant that transforms voice conversations into structured tickets while providing real-time insights. Originally built on AWS, now evolved into a powerful distributed system that runs anywhere.
 
-<details>
-<summary>🌟 Features & Architecture</summary>
-
-**Cool Features**:
-- 🎯 Real-time voice processing with 3-4s latency
-- 📊 Meeting efficiency analytics with Spark Streaming
+**🌟 Features & Architecture**
+- 🎯 Real-time voice processing with WebSocket streaming
+- 📊 Smart analytics for meeting efficiency and business insights
 - 🤖 Smart ticket generation and workflow optimization
-- 🔄 WebSocket-based instant feedback
 - 🔒 Local-first, privacy-focused architecture
 
 **Built with**:
 - **Core Backend**:
   - TypeScript & Express.js for main server
   - FastAPI for Whisper service
-  - PostgreSQL & Prisma
+  - PostgreSQL & Prisma for data persistence
 - **Data Processing**:
   - Apache Kafka for message queuing
   - Spark Streaming & ML for real-time analytics
   - Claude's API for text processing
 - **Frontend**:
-  - Next.js & TailwindCSS
+  - Next.js & TailwindCSS for UI
   - WebSocket for real-time updates
 - **DevOps**:
   - Docker & Docker Compose
   - Swagger UI for API documentation
 
 **Fun Facts**: Our system...
-- Processes voice to text in just 3-4 seconds
+- Processes voice to text in real-time
 - Uses distributed architecture for scalability
 - Provides ML-powered meeting insights
 - Runs completely in your local environment
-</details>
 </div>
 
 <div align="center">
