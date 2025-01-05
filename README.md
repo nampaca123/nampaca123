@@ -60,6 +60,7 @@
 ## 💼 Experience
 
 <div align="center">
+  <h2>💼 Experience</h2>
   <table>
     <tr>
       <td align="center" width="200"><b>Category</b></td>
@@ -128,6 +129,10 @@
 
 ## 🔭 Featured Projects
 
+<div align="center">
+  <h2>🔭 Featured Projects</h2>
+</div>
+
 ### 🍳 MakeEat - From Receipts to Delicious Recipes with AI
 <div align="left">
   <a href="https://github.com/nampaca123/makeEat">
@@ -167,37 +172,40 @@ Got groceries but no recipe ideas? MakeEat transforms your receipts into culinar
     <img src="https://github.com/nampaca123/Vori_Reborn/raw/main/voriLogo.png" width="200" align="right" />
   </a>
 
-Transform team meetings into organized tasks, automatically! Originally built with AWS, now evolved into a powerful local-first solution that anyone can run anywhere.
+Turn your endless meetings into actionable tasks, instantly! Vori is your AI-powered meeting assistant that transforms voice conversations into structured tickets while providing real-time insights. Originally built on AWS, now evolved into a powerful distributed system that runs anywhere.
 
 <details>
-<summary>🌟 Features & Stack</summary>
+<summary>🌟 Features & Architecture</summary>
 
 **Cool Features**:
-- 🎯 Voice-to-task automation
-- 📝 AI-powered meeting summaries
-- 🔄 Real-time processing
-- 🔒 Secure & private
+- 🎯 Real-time voice processing with 3-4s latency
+- 📊 Meeting efficiency analytics with Spark Streaming
+- 🤖 Smart ticket generation and workflow optimization
+- 🔄 WebSocket-based instant feedback
+- 🔒 Local-first, privacy-focused architecture
 
 **Built with**:
-- **Current (Local Version)**:
-  - **Backend**: TypeScript, Node.js, FastAPI, PostgreSQL
-  - **Data Processing**: Apache Kafka
-  - **AI/ML**: OpenAI (Whisper & GPT)
-  - **Frontend**: Next.js, TailwindCSS
-- **Previous (AWS Version)**:
-  - **Cloud Services**: AWS Lambda, MSK, EC2, S3
-  - Same core technologies
+- **Core Backend**:
+  - TypeScript & Express.js for main server
+  - FastAPI for Whisper service
+  - PostgreSQL & Prisma
+- **Data Processing**:
+  - Apache Kafka for message queuing
+  - Spark Streaming & ML for real-time analytics
+  - Claude's API for text processing
+- **Frontend**:
+  - Next.js & TailwindCSS
+  - WebSocket for real-time updates
+- **DevOps**:
+  - Docker & Docker Compose
+  - Swagger UI for API documentation
+
+**Fun Facts**: Our system...
+- Processes voice to text in just 3-4 seconds
+- Uses distributed architecture for scalability
+- Provides ML-powered meeting insights
+- Runs completely in your local environment
 </details>
-</div>
-
-## 📫 Connect With Me
-
-<div align="center">
-  
-[![Email](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=00BFFF)](mailto:knnam12@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00BFFF)](https://www.linkedin.com/in/knnam12/)
-[![Phone](https://img.shields.io/badge/-Call%20Me-000000?style=for-the-badge&logo=whatsapp&logoColor=00BFFF)](tel:+19497387650)
-
 </div>
 
 <div align="center">
