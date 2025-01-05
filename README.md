@@ -15,7 +15,7 @@
   <br/>
   
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nampaca123&layout=compact&theme=radical&title_color=00BFFF&text_color=00BFFF&bg_color=080808&hide_border=true&icon_color=00BFFF&private=false" alt="Most Used Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nampaca123&layout=compact&theme=radical&title_color=00BFFF&text_color=00BFFF&bg_color=080808&hide_border=true&icon_color=00BFFF&langs_count=6&custom_title=Top%20Languages&card_width=445&private=false" alt="Most Used Languages" />
   </div>
 
 <br/>
