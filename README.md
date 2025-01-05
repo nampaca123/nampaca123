@@ -189,6 +189,12 @@ Turn your endless meetings into actionable tasks, instantly! Vori is your AI-pow
 - 🤖 Smart ticket generation and workflow optimization
 - 🔒 Local-first, privacy-focused architecture
 
+**Fun Facts**: Our system...
+- Processes voice to text in real-time
+- Uses distributed architecture for scalability
+- Provides ML-powered meeting insights
+- Runs completely in your local environment
+
 **Built with**:
 - **Core Backend**:
   - TypeScript & Express.js for main server
@@ -204,13 +210,9 @@ Turn your endless meetings into actionable tasks, instantly! Vori is your AI-pow
 - **DevOps**:
   - Docker & Docker Compose
   - Swagger UI for API documentation
-
-**Fun Facts**: Our system...
-- Processes voice to text in real-time
-- Uses distributed architecture for scalability
-- Provides ML-powered meeting insights
-- Runs completely in your local environment
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=080808&height=100&section=footer&fontSize=50&animation=twinkling&fontColor=00BFFF" />
