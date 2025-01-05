@@ -14,6 +14,11 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=nampaca123&color=00BFFF" alt="Profile views" />
+  
+  <br/>
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nampaca123&layout=compact&theme=radical&title_color=00BFFF&text_color=00BFFF&bg_color=080808&hide_border=true&icon_color=00BFFF" alt="Most Used Languages" />
 </div>
 
 <br/>
@@ -27,14 +32,14 @@
     </tr>
     <tr>
       <td>
-        <img src="https://img.shields.io/badge/Focus-Distributed%20Systems-00BFFF?style=for-the-badge&logo=apache&logoColor=00BFFF" />
+        <img src="https://img.shields.io/badge/Focus-Distributed%20Systems-00BFFF?style=for-the-badge&logo=apache-kafka&logoColor=00BFFF" />
         <img src="https://img.shields.io/badge/Focus-Full--Stack%20Dev-00BFFF?style=for-the-badge&logo=react&logoColor=00BFFF" />
-        <img src="https://img.shields.io/badge/Focus-Data%20Engineering-00BFFF?style=for-the-badge&logo=apache-kafka&logoColor=00BFFF" />
+        <img src="https://img.shields.io/badge/Focus-Data%20Engineering-00BFFF?style=for-the-badge&logo=apache-spark&logoColor=00BFFF" />
       </td>
     </tr>
     <tr>
       <td>
-        <img src="https://img.shields.io/badge/Passion-Backend%20&%20Data%20Engineering-00BFFF?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA70lEQVR4nKXSvUpDQRDF8d8V/EAEGwu1EgRBBAtR0E4QQas8gYVgZ2MhPoCFhYiVnYWNjYU+glhYiCBYWPhRiRKJRWbhGm5usvGHYXdmzjmzs7vhX4YxgSUs4BBn2McaZjGI+F+5wC7GqxKN4grb6ErEuvGMR3TUSTaLl7+S9eAE11jHFg4wj5FvG9jALe7wgnd84hNvuMQw2hsR38UL3vCBd7wm+RucYyEVPEWzxXnGMY12dKALfehN9pZwjKcGzgfMJeJ9GMAghtJrTGEn6TGBm7hVs/kcB9htIDaS9LhuxcMUzrDSKvkXqhiB40PC7FEAAAAASUVORK5CYII=" />
+        <img src="https://img.shields.io/badge/Passion-Backend%20&%20Data%20Engineering-00BFFF?style=for-the-badge&logo=firebase&logoColor=00BFFF" />
       </td>
     </tr>
   </table>
