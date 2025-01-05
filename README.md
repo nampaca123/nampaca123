@@ -1,6 +1,6 @@
 <div align="center">
   <img src="alpaca.gif" width="200" height="200" alt="Cute Alpaca" />
-  
+    <br/>
   <div style="margin-top: -180px; margin-bottom: 100px;">
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=3000&color=00BFFF&center=true&vCenter=true&random=false&width=535&lines=Kyoungin+Nam;Full-Stack+Developer;Data+Engineer;Distributed+Systems+Lover" alt="Typing SVG" />
@@ -11,14 +11,25 @@
 <h3 align="center">
   <span style="color: #00BFFF">Faster, Cheaper, Simpler Code</span> 🕯️
 </h3>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nampaca123&color=00BFFF" alt="Profile views" />
   
   <br/>
   <br/>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nampaca123&layout=compact&theme=radical&title_color=00BFFF&text_color=00BFFF&bg_color=080808&hide_border=true&icon_color=00BFFF&private=false" alt="Most Used Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="spark" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/>
 </div>
 
 <br/>
