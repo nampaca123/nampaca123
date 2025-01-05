@@ -133,7 +133,7 @@
   <h2>🔭 Featured Projects</h2>
 </div>
 
-### 🍳 MakeEat - From Receipts to Delicious Recipes with AI
+### MakeEat 🍳 - From Receipts to Delicious Recipes with AI
 <div align="left">
   <a href="https://github.com/nampaca123/makeEat">
     <img src="https://github.com/nampaca123/makeEat/raw/main/makeEat_Logo.png" width="200" align="right" />
@@ -171,7 +171,11 @@ Got groceries but no recipe ideas? MakeEat transforms your receipts into culinar
 
 <br/>
 
-### 🎙️ Vori - Voice to Report
+---
+
+<br/>
+
+### Vori 🎙️ - Voice to Report
 <div align="left">
   <a href="https://github.com/nampaca123/Vori_Reborn">
     <img src="https://github.com/nampaca123/Vori_Reborn/raw/main/voriLogo.png" width="200" align="right" />
