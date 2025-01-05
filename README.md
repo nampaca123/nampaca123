@@ -13,14 +13,15 @@
 </h3>
   
   <br/>
-  <br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nampaca123&layout=compact&theme=radical&title_color=00BFFF&text_color=00BFFF&bg_color=080808&hide_border=true&icon_color=00BFFF&private=false" alt="Most Used Languages" />
-</div>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nampaca123&layout=compact&theme=radical&title_color=00BFFF&text_color=00BFFF&bg_color=080808&hide_border=true&icon_color=00BFFF&private=false" alt="Most Used Languages" />
+  </div>
 
 <br/>
 
 <div align="center">
+## ⚒️ Tech Stack
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
