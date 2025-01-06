@@ -60,7 +60,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nampaca123&theme=radical&hide_border=true&background=080808&ring=B19CD9&fire=B19CD9&currStreakLabel=B19CD9&sideLabels=B19CD9&dates=B19CD9&stroke=B19CD9" alt="GitHub Streak" width="600" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nampaca123&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" width="800" />
 </div>
 
 <br/>
