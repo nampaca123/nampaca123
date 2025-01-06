@@ -39,19 +39,19 @@
   <table>
     <tr>
       <td>
-        <img src="https://img.shields.io/badge/Location-Irvine,%20CA-7851A9?style=for-the-badge&logo=google-maps&logoColor=7851A9" />
+        <img src="https://img.shields.io/badge/Location-Irvine,%20CA-7851A9?style=for-the-badge&logo=google-maps&logoColor=A875FF" />
       </td>
     </tr>
     <tr>
       <td>
-        <img src="https://img.shields.io/badge/Focus-Distributed%20Systems-7851A9?style=for-the-badge&logo=apache-kafka&logoColor=7851A9" />
-        <img src="https://img.shields.io/badge/Focus-Full--Stack%20Dev-7851A9?style=for-the-badge&logo=react&logoColor=7851A9" />
-        <img src="https://img.shields.io/badge/Focus-Data%20Engineering-7851A9?style=for-the-badge&logo=apache-spark&logoColor=7851A9" />
+        <img src="https://img.shields.io/badge/Focus-Distributed%20Systems-7851A9?style=for-the-badge&logo=apache-kafka&logoColor=A875FF" />
+        <img src="https://img.shields.io/badge/Focus-Full--Stack%20Dev-7851A9?style=for-the-badge&logo=react&logoColor=A875FF" />
+        <img src="https://img.shields.io/badge/Focus-Data%20Engineering-7851A9?style=for-the-badge&logo=apache-spark&logoColor=A875FF" />
       </td>
     </tr>
     <tr>
       <td>
-        <img src="https://img.shields.io/badge/Passion-Backend%20&%20Data%20Engineering-7851A9?style=for-the-badge&logo=firebase&logoColor=7851A9" />
+        <img src="https://img.shields.io/badge/Passion-Backend%20&%20Data%20Engineering-7851A9?style=for-the-badge&logo=firebase&logoColor=A875FF" />
       </td>
     </tr>
   </table>
