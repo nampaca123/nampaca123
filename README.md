@@ -3,19 +3,19 @@
     <br/>
   <div style="margin-top: -180px; margin-bottom: 100px;">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=3000&color=00BFFF&center=true&vCenter=true&random=false&width=535&lines=Kyoungin+Nam;Full-Stack+Developer;Data+Engineer;Distributed+Systems+Lover" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=3000&color=7851A9&center=true&vCenter=true&random=false&width=535&lines=Kyoungin+Nam;Full-Stack+Developer;Data+Engineer;Distributed+Systems+Lover" alt="Typing SVG" />
     </a>
   </div>
 </div>
 
 <h3 align="center">
-  <span style="color: #00BFFF">Faster, Cheaper, Simpler Code</span> 🕯️
+  <span style="color: #7851A9">Faster, Cheaper, Simpler Code</span> 🕯️
 </h3>
   
   <br/>
   
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nampaca123&layout=compact&theme=radical&title_color=00BFFF&text_color=00BFFF&bg_color=080808&hide_border=true&icon_color=00BFFF&langs_count=6&custom_title=Top%20Languages&card_width=445&private=false" alt="Most Used Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nampaca123&layout=compact&theme=radical&title_color=7851A9&text_color=7851A9&bg_color=080808&hide_border=true&icon_color=7851A9&langs_count=6&custom_title=Top%20Languages&card_width=445&private=false" alt="Most Used Languages" />
   </div>
 
 <br/>
@@ -39,19 +39,19 @@
   <table>
     <tr>
       <td>
-        <img src="https://img.shields.io/badge/Location-Irvine,%20CA-00BFFF?style=for-the-badge&logo=google-maps&logoColor=00BFFF" />
+        <img src="https://img.shields.io/badge/Location-Irvine,%20CA-7851A9?style=for-the-badge&logo=google-maps&logoColor=7851A9" />
       </td>
     </tr>
     <tr>
       <td>
-        <img src="https://img.shields.io/badge/Focus-Distributed%20Systems-00BFFF?style=for-the-badge&logo=apache-kafka&logoColor=00BFFF" />
-        <img src="https://img.shields.io/badge/Focus-Full--Stack%20Dev-00BFFF?style=for-the-badge&logo=react&logoColor=00BFFF" />
-        <img src="https://img.shields.io/badge/Focus-Data%20Engineering-00BFFF?style=for-the-badge&logo=apache-spark&logoColor=00BFFF" />
+        <img src="https://img.shields.io/badge/Focus-Distributed%20Systems-7851A9?style=for-the-badge&logo=apache-kafka&logoColor=7851A9" />
+        <img src="https://img.shields.io/badge/Focus-Full--Stack%20Dev-7851A9?style=for-the-badge&logo=react&logoColor=7851A9" />
+        <img src="https://img.shields.io/badge/Focus-Data%20Engineering-7851A9?style=for-the-badge&logo=apache-spark&logoColor=7851A9" />
       </td>
     </tr>
     <tr>
       <td>
-        <img src="https://img.shields.io/badge/Passion-Backend%20&%20Data%20Engineering-00BFFF?style=for-the-badge&logo=firebase&logoColor=00BFFF" />
+        <img src="https://img.shields.io/badge/Passion-Backend%20&%20Data%20Engineering-7851A9?style=for-the-badge&logo=firebase&logoColor=7851A9" />
       </td>
     </tr>
   </table>
@@ -215,5 +215,5 @@ Turn your endless meetings into actionable tasks, instantly! Vori is your AI-pow
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=080808&height=100&section=footer&fontSize=50&animation=twinkling&fontColor=00BFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=080808&height=100&section=footer&fontSize=50&animation=twinkling&fontColor=7851A9" />
 </div>
