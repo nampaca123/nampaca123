@@ -15,7 +15,7 @@
   <br/>
   
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nampaca123&layout=compact&theme=radical&title_color=7851A9&text_color=7851A9&bg_color=080808&hide_border=true&icon_color=7851A9&langs_count=6&custom_title=Top%20Languages&card_width=445&private=false" alt="Most Used Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nampaca123&layout=compact&theme=radical&title_color=B19CD9&text_color=B19CD9&bg_color=080808&hide_border=true&icon_color=B19CD9&langs_count=6&custom_title=Top%20Languages&card_width=445&private=false" alt="Most Used Languages" />
   </div>
 
 <br/>
@@ -55,6 +55,12 @@
       </td>
     </tr>
   </table>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nampaca123&theme=radical&hide_border=true&background=080808&ring=B19CD9&fire=B19CD9&currStreakLabel=B19CD9&sideLabels=B19CD9&dates=B19CD9&stroke=B19CD9" alt="GitHub Streak" width="600" />
 </div>
 
 <br/>
