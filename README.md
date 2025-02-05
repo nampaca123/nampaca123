@@ -105,7 +105,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="40" height="40"/>
         <img src="https://raw.githubusercontent.com/apache/airflow/main/airflow/www/static/pin_100.png" alt="airflow" width="40" height="40"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="spark" width="40" height="40"/>
-        <img src="https://langchain.com/favicon.ico" alt="langchain" width="40" height="40"/>
+        <img src="https://python.langchain.com/img/favicon.ico" alt="langchain" width="40" height="40"/>
       </td>
     </tr>
     <tr>
