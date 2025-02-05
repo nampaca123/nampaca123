@@ -64,12 +64,6 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nampaca123&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" width="800" />
-</div>
-
-<br/>
-
-<div align="center">
   <h2>💼 Experience</h2>
   <table>
     <tr>
