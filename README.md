@@ -1,6 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,100:1a0000&height=150&section=header&text=Kyoungin%20Nam&fontSize=38&fontColor=dc2626&fontAlignY=40&desc=A%20developer%20who%20CAFEs.&descColor=a1a1aa&descAlignY=68&descSize=16&animation=fadeIn" width="100%" />
+<div align="center">
+  <img src="arabot_coffee.jpg" width="140" />
+  <h1>Kyoungin Nam</h1>
+  <p><i>A developer who CAFEs — Cloud · AI-Native · Finance · Engineering.</i></p>
 
-<p align="center">
   <a href="https://www.kyounginn.com">
     <img src="https://img.shields.io/badge/Portfolio-kyounginn.com-dc2626?style=flat-square" />
   </a>
@@ -12,7 +14,7 @@
   <a href="mailto:knnam12@outlook.com">
     <img src="https://img.shields.io/badge/Email-knnam12%40outlook.com-dc2626?style=flat-square&logo=maildotru&logoColor=white" />
   </a>
-</p>
+</div>
 
 ---
 
@@ -39,7 +41,3 @@ Backend developer building with **Java/Kotlin** and **JavaScript**. Shipped prod
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nampaca123&layout=compact&bg_color=050505&title_color=dc2626&text_color=fafafa&hide_border=true&card_width=420&langs_count=8" />
 </div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,100:050505&height=80&section=footer" width="100%" />
