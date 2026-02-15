@@ -35,7 +35,7 @@ Deeply interested in financial IT - I hold a Certified Investment Manager licens
 | **F** | **Finance** | Business Administration major + Certified Investment Manager. Applying domain knowledge to build quantitative trading systems. |
 | **E** | **Engineering** | Spring Boot · Node.js backend as core, with React/Next.js frontend capability sharpened at an early-stage startup. |
 
-### Language statistics for the repository
+### Language statistics for the repository(Public)
 
 <p align="center">
   <img src="./metrics-languages.svg" alt="Repository language stats" />
