@@ -20,6 +20,23 @@
 
 Backend developer building with **Java/Kotlin** and **JavaScript**. Shipped production systems at Bestia Group(PropTech startup, Los Angeles) and [FPT Software](https://fptsoftware.com)(IT enterprise, Vietnam). Deeply interested in financial IT — I hold a Certified Investment Manager license alongside my engineering background, and I'm currently building a Python/ML-powered quant investment system to put that interest into practice.
 
+### Public Repo Language Mix
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nampaca123&layout=compact&langs_count=10&hide_border=true&title_color=dc2626&text_color=c9d1d9&bg_color=0d1117"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nampaca123&layout=compact&langs_count=10&hide_border=true&title_color=dc2626&text_color=111827&bg_color=ffffff"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nampaca123&layout=compact&langs_count=10&hide_border=true&title_color=dc2626&text_color=111827&bg_color=ffffff"
+    alt="Top languages"
+  />
+</picture>
+
 ### CAFE
 
 > The four pillars behind [**KNN Cafe**](https://www.kyounginn.com), my portfolio — and the lens through which I approach every project.
@@ -35,9 +52,3 @@ Backend developer building with **Java/Kotlin** and **JavaScript**. Shipped prod
 
 **SaramQuant** — A stock analysis system combining XGBoost and traditional quant methods. Collects daily market data across KR & US exchanges, computes 23 technical indicators per stock, and generates ML-based direction predictions.  
 `Flask` · `PostgreSQL` · `Redis` · `Spring Boot (Kotlin)` · `Next.js`
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nampaca123&layout=compact&title_color=dc2626&text_color=333333&bg_color=00000000&hide_border=true&langs_count=8" />
-</div>
