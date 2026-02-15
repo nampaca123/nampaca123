@@ -35,3 +35,9 @@ Backend developer building with **Java/Kotlin** and **JavaScript**. Shipped prod
 
 **SaramQuant** — A stock analysis system combining XGBoost and traditional quant methods. Collects daily market data across KR & US exchanges, computes 23 technical indicators per stock, and generates ML-based direction predictions.  
 `Flask` · `PostgreSQL` · `Redis` · `Spring Boot (Kotlin)` · `Next.js`
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nampaca123&layout=compact&title_color=dc2626&text_color=333333&bg_color=00000000&hide_border=true&langs_count=8" />
+</div>
