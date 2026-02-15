@@ -22,20 +22,9 @@ Backend developer building with **Java/Kotlin** and **JavaScript**. Shipped prod
 
 ### Public Repo Language Mix
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nampaca123&layout=compact&langs_count=10&hide_border=true&title_color=dc2626&text_color=c9d1d9&bg_color=0d1117"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nampaca123&layout=compact&langs_count=10&hide_border=true&title_color=dc2626&text_color=111827&bg_color=ffffff"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nampaca123&layout=compact&langs_count=10&hide_border=true&title_color=dc2626&text_color=111827&bg_color=ffffff"
-    alt="Top languages"
-  />
-</picture>
+<p align="center">
+  <img src="./metrics-languages.svg" alt="Public repo language mix" />
+</p>
 
 ### CAFE
 
