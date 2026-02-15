@@ -19,7 +19,7 @@
 <br />
 
 Backend developer building with <b>Java/Kotlin</b> and <b>JavaScript</b>. Shipped production systems at Bestia Group (PropTech startup, Los Angeles) and
-<a href="https://fptsoftware.com">FPT Software</a> (IT enterprise, Vietnam).
+<a href="https://fptsoftware.com">FPT Software</a> (Global SI, Vietnam).
 Deeply interested in financial IT - I hold a Certified Investment Manager license alongside my engineering background, and I'm currently building a Python/ML-powered quant investment system to put that interest into practice.
 
 <br />
