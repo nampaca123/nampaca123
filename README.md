@@ -16,7 +16,10 @@
   </a>
 </div>
 
+<br>
+
 Backend developer building with **Java/Kotlin** and **JavaScript**. Shipped production systems at Bestia Group(PropTech startup, Los Angeles) and [FPT Software](https://fptsoftware.com)(IT enterprise, Vietnam). Deeply interested in financial IT — I hold a Certified Investment Manager license alongside my engineering background, and I'm currently building a Python/ML-powered quant investment system to put that interest into practice.
+
 <br>
 
 ### CAFE
@@ -30,12 +33,15 @@ Backend developer building with **Java/Kotlin** and **JavaScript**. Shipped prod
 | **F** | **Finance** | Business Administration major + Certified Investment Manager. Applying domain knowledge to build quantitative trading systems. |
 | **E** | **Engineering** | Spring Boot · Node.js backend as core, with React/Next.js frontend capability sharpened at an early-stage startup. |
 
+<br>
 
 ### Language statistics for the repository
 
 <p align="center">
   <img src="./metrics-languages.svg" alt="Repository language stats" />
 </p>
+
+<br>
 
 ### Currently Building
 
