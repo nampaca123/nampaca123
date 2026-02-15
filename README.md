@@ -23,7 +23,7 @@ Backend developer building with **Java/Kotlin** and **JavaScript**. Shipped prod
 ### Public Repo Language Mix
 
 <p align="center">
-  <img src="./metrics-languages.svg" alt="Public repo language mix" />
+  <img src="./metrics_renders/metrics-languages.svg" alt="Public repo language mix" />
 </p>
 
 ### CAFE
