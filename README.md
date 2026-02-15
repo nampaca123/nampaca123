@@ -17,9 +17,7 @@
 </div>
 
 <br>
-
 Backend developer building with **Java/Kotlin** and **JavaScript**. Shipped production systems at Bestia Group(PropTech startup, Los Angeles) and [FPT Software](https://fptsoftware.com)(IT enterprise, Vietnam). Deeply interested in financial IT — I hold a Certified Investment Manager license alongside my engineering background, and I'm currently building a Python/ML-powered quant investment system to put that interest into practice.
-
 <br>
 
 ### CAFE
@@ -32,7 +30,6 @@ Backend developer building with **Java/Kotlin** and **JavaScript**. Shipped prod
 | **A** | **AI-Native** | Grew up as a developer alongside the AI wave. Built AI Agent & RAG-based solutions in practice, validated through multiple hackathon awards. |
 | **F** | **Finance** | Business Administration major + Certified Investment Manager. Applying domain knowledge to build quantitative trading systems. |
 | **E** | **Engineering** | Spring Boot · Node.js backend as core, with React/Next.js frontend capability sharpened at an early-stage startup. |
-
 <br>
 
 ### Language statistics for the repository
@@ -40,10 +37,9 @@ Backend developer building with **Java/Kotlin** and **JavaScript**. Shipped prod
 <p align="center">
   <img src="./metrics-languages.svg" alt="Repository language stats" />
 </p>
-
 <br>
 
 ### Currently Building
 
 **SaramQuant** — A stock analysis system combining XGBoost and traditional quant methods. Collects daily market data across KR & US exchanges, computes 23 technical indicators per stock, and generates ML-based direction predictions.  
-`Flask` · `PostgreSQL` · `Redis` · `Spring Boot (Kotlin)` · `Next.js`
+`Flask` · `Nest.js` · `Spring Boot (Kotlin)` · `Next.js`
