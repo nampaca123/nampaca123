@@ -20,10 +20,10 @@
 
 Backend developer building with **Java/Kotlin** and **JavaScript**. Shipped production systems at Bestia Group(PropTech startup, Los Angeles) and [FPT Software](https://fptsoftware.com)(IT enterprise, Vietnam). Deeply interested in financial IT — I hold a Certified Investment Manager license alongside my engineering background, and I'm currently building a Python/ML-powered quant investment system to put that interest into practice.
 
-### Public Repo Language Mix
+### Language statistics for the repository
 
 <p align="center">
-  <img src="./metrics-languages.svg" alt="Public repo language mix" />
+  <img src="./metrics-languages.svg" alt="Repository language stats" />
 </p>
 
 ### CAFE
