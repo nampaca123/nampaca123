@@ -32,7 +32,7 @@ Deeply interested in FinTech.
 | **C** | **Cloud** | Multi-cloud hands-on across AWS, Azure, and GCP. Owning AWS SAA and 2 Azure Cloud certificates. |
 | **A** | **AI-Native** | Won 2nd place award in AI Agent hackathon. |
 | **F** | **Finance** | Owning fund manager certification in Korea. Built quant-investment app. |
-| **E** | **Engineering** | Won 1st place award in GDGoC KR hackathon. Focused on Spring Boot. |
+| **E** | **Engineering** | Won 1st place award in GDGoC KR hackathon. Focusing on Spring Boot. |
 
 ### Language statistics for the repository(public)
 
