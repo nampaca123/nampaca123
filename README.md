@@ -18,10 +18,9 @@
 
 <br />
 
-Backend developer building with <b>Java/Kotlin</b> and <b>JavaScript</b>. Shipped production systems at Bestia Group (PropTech startup, Los Angeles) and
+Backend developer building with <b>Java/Kotlin</b> and <b>Python</b>. Shipped production systems at Bestia Group (PropTech startup, Los Angeles) and
 <a href="https://fptsoftware.com">FPT Software</a> (Global SI, Vietnam).
-Deeply interested in financial IT - I hold a Certified Investment Manager license alongside my engineering background, and I'm currently building a Python/ML-powered quant investment system to put that interest into practice.
-
+Deeply interested in FinTech.
 <br />
 
 ### CAFE
@@ -30,10 +29,10 @@ Deeply interested in financial IT - I hold a Certified Investment Manager licens
 
 | | | |
 |:---:|---|---|
-| **C** | **Cloud** | Multi-cloud hands-on across AWS, Azure, and GCP. Won 1st place at a Google-backed hackathon (37 teams, 150+ participants) by leveraging cloud-native services. |
-| **A** | **AI-Native** | Grew up as a developer alongside the AI wave. Built AI Agent & RAG-based solutions in practice, validated through multiple hackathon awards. |
-| **F** | **Finance** | Business Administration major + Certified Investment Manager. Applying domain knowledge to build quantitative trading systems. |
-| **E** | **Engineering** | Spring Boot · Node.js backend as core, with React/Next.js frontend capability sharpened at an early-stage startup. |
+| **C** | **Cloud** | Multi-cloud hands-on across AWS, Azure, and GCP. Owning AWS SAA and 2 Azure Cloud certificates. |
+| **A** | **AI-Native** | Won 2nd place award in AI Agent hackathon. |
+| **F** | **Finance** | Owning fund manager certification in Korea. Built quant-investment app. |
+| **E** | **Engineering** | Won 1st place award in GDGoC KR hackathon. Focused on Spring Boot. |
 
 ### Language statistics for the repository(public)
 
@@ -43,5 +42,5 @@ Deeply interested in financial IT - I hold a Certified Investment Manager licens
 
 ### Currently Building
 
-**SaramQuant** - A stock analysis system combining XGBoost and traditional quant methods. Collects daily market data across KR & US exchanges, computes 23 technical indicators per stock, and generates ML-based direction predictions.  
-`Flask` · `Nest.js` · `Spring Boot (Kotlin)` · `Next.js`
+**SaramQuant** - A quantitavie risk analysis app. Collects daily market data across KR & US exchanges, computes risk analysis, simulation, AI report.
+`Flask` · `Spring Boot (Kotlin)` · `Nest.js` · `Next.js`
